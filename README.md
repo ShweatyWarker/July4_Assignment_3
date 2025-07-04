@@ -18,7 +18,6 @@ A beginner-friendly, proudly Canadian open-source project that lets you explore 
 - 💬 Fun Facts
 - Example response:
 
-```json
 {
   "id": 3,
   "name": "L'Érable Supreme",
@@ -47,3 +46,4 @@ Prerequisites
 In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec.
 It was valued at over $18 million,
 making it the stickiest heist in Canadian history. 🇨🇦
+```
