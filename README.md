@@ -43,9 +43,21 @@ Prerequisites
 	•	VS Code
 	•	Git + GitHub
 
-🧊 Fun Fact
+ 🎯 Beginner-Friendly Ways to Contribute
+	•	✅ Add new syrups to data/syrups.json
+	•	🌐 Translate API responses into French
+	•	🔀 Create a /random syrup endpoint
+	•	🧪 Add unit tests
+	•	🖼️ Design a project logo or banner
+	•	🖥️ Build a frontend (React, Vue, etc.)
+ 
+🧊 Fun Facts About Canadian Maple Syrup
+	•	Canada produces over 75% of the world’s maple syrup.
+	•	The province of Quebec alone makes up more than 90% of that total.
+	•	In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec — worth over $18 million. It’s considered the stickiest heist in Canadian history. 🇨🇦
+	•	Indigenous peoples were the first to harvest maple sap long before colonization.
 
-In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec.
-It was valued at over $18 million,
-making it the stickiest heist in Canadian history. 🇨🇦
-```
+ 👑 Credits
+ @ShweatyWarker
+ Maybe you?
+ ```
