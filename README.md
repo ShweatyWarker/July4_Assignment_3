@@ -68,14 +68,19 @@ Prerequisites
 	👥 Contributors
 	Username
 Profile Link
+
 MapleMoose89
 github.com/MapleMoose89
+
 HockeyDadDev
 github.com/HockeyDadDev
+
 TimbitTechie
 github.com/TimbitTechie
+
 LoonieCoder
 github.com/LoonieCoder
+
 PoutinePusher
 github.com/PoutinePusher
 
