@@ -16,7 +16,8 @@ A beginner-friendly, proudly Canadian open-source project that lets you explore 
 - 🍽️ Best Pairings (pancakes, waffles, bacon, etc.)
 - 📊 Sugar Content
 - 💬 Fun Facts
-- Example response:
+
+  Example response:
 
 {
   "id": 3,
@@ -27,6 +28,7 @@ A beginner-friendly, proudly Canadian open-source project that lets you explore 
   "sugar_content": "67%",
   "fun_fact": "Quebec produces over 70% of the world’s maple syrup!"
 }
+
 🚀 Getting Started
 
 Prerequisites
