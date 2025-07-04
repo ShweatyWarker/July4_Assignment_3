@@ -44,4 +44,6 @@ Prerequisites
 
 🧊 Fun Fact
 
-In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec. It was valued at over $18 million, making it the stickiest heist in Canadian history. 🇨🇦
+In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec.
+It was valued at over $18 million,
+making it the stickiest heist in Canadian history. 🇨🇦
