@@ -65,6 +65,33 @@ Prerequisites
 	•	Autocomplete thinks “Érable” is a typo (rude)
 	•	Project owner drinks syrup straight from the bottle — untested behavior
 
+	👥 Contributors
+	Username
+Profile Link
+MapleMoose89
+github.com/MapleMoose89
+HockeyDadDev
+github.com/HockeyDadDev
+TimbitTechie
+github.com/TimbitTechie
+LoonieCoder
+github.com/LoonieCoder
+PoutinePusher
+github.com/PoutinePusher
+
+🧑‍🍳 How to Use
+
+Example Requests
+View all syrups:GET /api/syrups
+
+View one syrup:GET /api/syrups/3
+
+Add a new syrup:POST /api/syrups
+
+Update a syrup:PUT /api/syrups/3
+
+Delete a syrup:DELETE /api/syrups/3
+
  👑 Credits
  @ShweatyWarker
  
