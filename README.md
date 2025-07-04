@@ -57,6 +57,14 @@ Prerequisites
 	•	In 2012, nearly 3,000 tonnes of maple syrup were stolen in Quebec — worth over $18 million. It’s considered the stickiest heist in Canadian history. 🇨🇦
 	•	Indigenous peoples were the first to harvest maple sap long before colonization.
 
+	🐞 Known Bugs
+	•	GET /api/syrups/:id doesn’t throw error for non-existent IDs
+	•	Fun fact fields sometimes make people too happy
+	•	POST accepts duplicate syrup names
+	•	“Golden” grade syrup too OP compared to “Very Dark”
+	•	Autocomplete thinks “Érable” is a typo (rude)
+	•	Project owner drinks syrup straight from the bottle — untested behavior
+
  👑 Credits
  @ShweatyWarker
  
